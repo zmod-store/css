@@ -70,7 +70,7 @@ body {
 
 ::placeholder {
     color: #eee !important;
-    font-size: 13px;
+    font-size: 5px;
     opacity: .5 !important; /* Firefox */
 }
 
